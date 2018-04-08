@@ -1,0 +1,52 @@
+.team_logo{
+    width: 20%;
+    height: 25px;
+    background-size: 20px !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    
+}
+.left_info{
+    display: flex;
+    width: 60%;
+    /* justify-content: center; */
+    flex-wrap: nowrap;
+}
+
+.right_info{
+    display: flex;
+    width: 40%;
+    /* justify-content: center; */
+    flex-wrap: nowrap;
+}
+
+.team_container{
+    background: #fff;
+
+}
+
+.team_cell{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid #acacac;
+}
+.team_name{
+width: 80%;
+border-right: #acacac 1px solid;
+}
+.team_wins, .team_draws,.team_defeat,.team_points {
+    justify-content: center;
+    width: 25%;
+    text-align: center;
+    border-right: #acacac 1px solid;
+}
+
+.pheader h3{
+    text-align: center;
+    margin: 20px;
+    color: #353535;
+    font-weight: 300;
+    font-size: 21px;
+}

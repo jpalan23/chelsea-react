@@ -1,0 +1,599 @@
+{
+    "articles":[
+       {
+            "id":1,
+            "team":5,
+            "title":"Antonio Conte admires Manchester City boss Pep Guardiola",
+            "image":"1.jpg",
+            "body":"Chelsea head coach Antonio Conte admits he admires Manchester City boss Pep Guardiola who is a 'great coach'. City lead fifth-placed Chelsea, the Premier League holders, by 22 points ahead of Sunday's Sky Live clash at the Etihad Stadium. Conte expects City to build on their impressive second season under Guardiola, contrasting the situation with his own at Chelsea, where the Italian appears to be on the brink of a summer exit. 'I don't like people to envy the other person,' Conte said. 'I have great admiration because they found the right way to be strong for a long time, to have successful seasons for a long time, from now until I don't know.' Conte, who has rued Chelsea's transfer activity since last summer, insists City's success is not solely about finance. 'Manchester City is not the only club to spend a lot of money,' the Italian added. Conte is not looking beyond the immediate future, with the City clash followed by games with Crystal Palace, Barcelona and Leicester. 'The club, I think has the same ambition in this moment: to be focused on the present and not to look too far (ahead),' he said. 'For sure it's a moment very crucial for us. These two weeks are very important for us.'",
+            "date":"03/03/2018",
+            "author":"Matt Cheetham",
+            "tags":["Chelsea","Manchester City"]
+        },
+        {
+            "id":2,
+            "team":5,
+            "title":"Alvaro Morata told how to break his Chelsea goal drought by Andriy Shevchenko",
+            "image":"2.jpg",
+            "body":"Alvaro Morata needs to focus on his finishing if he is to end his Chelsea goal drought, according to Andriy Shevchenko. The Spain international enjoyed a prolific start to the season following his club-record £58million move from Real Madrid, but a niggling back injury allied to a loss of confidence has culminated in the 25-year-old going 10 games without a goal in all competitions. Milan legend Shevchenko endured an equally difficult period during his own Stamford Bridge career but believes Chelsea’s current No.9 can take heart from the fact he is getting on the end of chances but needs to be more composed in front of goal. ‘I’ve seen a lot of him,’ revealed Shevchenko, who was speaking in his role as a Laureus ambassador. ‘He’s had a lot of chances. I think you need to improve the finishing when you have chances. ‘It’s good when a striker has chances, it’s very positive. You need this for scoring goals and helping the team to win.’ Chelsea face runaway Premier League leaders Manchester City on Sunday, with Pep Guardiola’s side needing another five wins to become champions. Antonio Conte masterminded the Blues’ title-winning campaign last season but is expected to leave Stamford Bridge in the summer, although Shevchenko hopes the club keep hold of the Italian. ",
+            "date":"02/27/2018",
+            "author":"John Secada",
+            "tags":["Chelsea","Morata"]
+        },
+       {
+            "id":3,
+            "team":5,
+            "title":"Which Premier League teams have the toughest fixtures in the run-in?",
+            "image":"3.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"03/10/2018",
+            "author":"Peter Smith",
+            "tags":["Chelsea","Manchester United"]
+        },
+        {
+            "id":4,
+            "team":5,
+            "title":"Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "image":"1.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":5,
+            "team":5,
+            "title":"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat",
+            "image":"1.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+       {
+            "id":6,
+            "team":5,
+            "title":"Sed ut perspiciatis unde omnis iste natus error",
+            "image":"1.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+         {
+            "id":7,
+            "team":10,
+            "title":"Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+            "image":"1.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":8,
+            "team":6,
+            "title":"Et quasi architecto beatae vitae dicta sunt explicabo",
+            "image":"1.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":9,
+            "team":14,
+            "title":"Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit",
+            "image":"7.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":10,
+            "team":14,
+            "title":"Magni dolores eos qui ratione voluptatem sequi nesciunt.",
+            "image":"8.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+          {
+            "id":11,
+            "team":2,
+            "title":"Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet",
+            "image":"9.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        }
+      ],
+    "videos":[
+     {
+          "id":1,
+          "team":5,
+          "title":"Cesar Azpilicueta Takes A Snowball To The Face From Eden Hazard | Chelsea Reseen",
+          "image":"1.jpg",
+          "url":"CJOceRB49E8",
+          "date":"03/02/2018",
+          "tags":["Chelsea FC","London"]
+        },
+     {
+          "id":2,
+          "team":1,
+          "title":"Arsenal embarrassed by Manchester City 3-0 at home ",
+          "image":"2.jpg",
+          "url":"egmY7jZf6pY",
+          "date":"03/01/2018",
+          "tags":["Arsenal","London","Manchester City","Manchester"]
+        },
+     {
+          "id":3,
+          "team":11,
+          "title":"RECORD BREAKER!! | Every Touch | Gündogan v Chelsea",
+          "image":"3.jpg",
+          "url":"1gmUsUV3qaU",
+          "date":"03/06/2018",
+          "tags":["Manchester City","Chelsea FC"]
+        },
+      {
+          "id":4,
+          "team":12,
+          "title":"Man United likely to bunker in against Liverpool",
+          "image":"4.JPG",
+          "url":"BNrtZQ_9Dew",
+          "date":"03/06/2018",
+          "tags":["Manchester United","Liverpool FC"]
+        },
+      {
+          "id":5,
+          "team":10,
+          "title":"Klopp refuses to tinker too much as Liverpool get ready for Porto second leg",
+          "image":"5.JPG",
+          "url":"cDynIECCGAg",
+          "date":"03/05/2018",
+          "tags":["Liverpool FC"]
+        },
+      {
+          "id":6,
+          "team":17,
+          "title":"MATCH HIGHLIGHTS (3/3/18) I Tottenham v. Huddersfield",
+          "image":"6.jpg",
+          "url":"pxx8hmbM3Ew",
+          "date":"03/03/2018",
+          "tags":["Tottenham Hotspur FC","Huddersfield Town A.F.C"]
+        },
+
+      {
+          "id":7,
+          "team":5,
+          "title":"Hazard,Fabregas & Chalobah Score Belters In The Snow | Chelsea Unseen",
+          "image":"7.JPG",
+          "url":"CAhwP_QMacU",
+          "date":"03/01/2018",
+          "tags":["Chelsea FC","London"]
+        },
+      {
+          "id":8,
+          "team":5,
+          "title":"Hazard,Fabregas & Chalobah Score Belters In The Snow | Chelsea Unseen",
+          "image":"8.JPG",
+          "url":"LAIxDw1imvM",
+          "date":"03/01/2018",
+          "tags":["Chelsea FC","London","Manchester City"]
+        },
+      {
+          "id":9,
+          "team":5,
+          "title":"Michael Essien's top five PL goals for Chelsea",
+          "image":"7.JPG",
+          "url":"F7Yt3lLO1ak",
+          "date":"03/01/2018",
+          "tags":["Chelsea FC","London"]
+        }
+      ],
+    "teams": [
+     {
+          "id": 1,
+          "name": "Arsenal",
+          "city": "London",
+          "stadium":"Emirates Stadium",
+          "logo": "arsenal.png",
+          "poll": "false",
+          "count": 0,
+          "teamid":1,
+          "description": "Arsenal Football Club is a professional football club based in Islington, London, England, that plays in the Premier League, the top flight of English football.",
+          "stats":[
+            {
+              "wins":13,
+              "draws":6,
+              "defeats":10,
+              "points":45,
+              "stand":6
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "A.F.C. Bournemouth",
+          "city": "Bournemouth",
+          "stadium":"Vitality Stadium",
+          "logo": "bournemouth.png",
+          "poll": "false",
+          "count": 0,
+          "teamid":2,
+          "description": "A.F.C. Bournemouth is a professional football club in Bournemouth, Dorset, that plays in the Premier League, the top tier of the English football league system.",
+          "stats":[
+            {
+              "wins":8,
+              "draws":9,
+              "defeats":12,
+              "points":33,
+              "stand":12
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Brighton and Hove Albion",
+          "city": "Brighton and Hove",
+          "stadium":"Falmer Stadium",
+          "logo": "brighton.png",
+          "poll": "false",
+          "count": 0,
+          "teamid":3,
+          "description": "Brighton & Hove Albion Football Club is a professional football club based in the city of Brighton and Hove, East Sussex, England",
+          "stats":[
+            {
+              "wins":8,
+              "draws":10,
+              "defeats":11,
+              "points":34,
+              "stand":10
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Burnley F.C",
+          "city": "Burnley",
+          "stadium":"Turf Moor",
+          "logo": "burnley.png",
+          "poll": "false",
+          "count": 0,
+          "teamid":4,
+          "description": "Burnley F.C. is a professional association football club based in Burnley, Lancashire, England. Founded in 1882, the club plays in the Premier League, the first tier of English football.",
+          "stats":[
+            {
+              "wins":10,
+              "draws":10,
+              "defeats":9,
+              "points":40,
+              "stand":7
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Chelsea FC",
+          "city": "London",
+          "stadium":"Stamford Bridge",
+          "logo": "chelsea.png",
+          "poll": "false",
+          "count": 0,
+          "teamid":5,
+          "description": "Chelsea Football Club is a professional football club in London, England, that competes in the Premier League. Founded in 1905, the club's home ground since then has been Stamford Bridge.",
+          "stats":[
+            {
+              "wins":16,
+              "draws":5,
+              "defeats":8,
+              "points":53,
+              "stand":5
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Crystal Palace",
+          "city": "London",
+          "stadium":"Selhurst Park",
+          "logo": "crystal.png",
+          "poll": "true",
+          "count": 0,
+          "teamid":6,
+          "description": "Crystal Palace Football Club is a professional football club based in Selhurst, London, that plays in the Premier League, the top tier of English football.",
+          "stats":[
+            {
+              "wins":6,
+              "draws":9,
+              "defeats":14,
+              "points":27,
+              "stand":18
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Everton F.C",
+          "city": "Liverpool",
+          "stadium":"Goodison Park",
+          "logo": "everton.png",
+          "poll": "true",
+          "count": 0,
+          "teamid":7,
+          "description": "Everton Football Club is a football club in Liverpool, England, that competes in the Premier League, the top flight of English football.",
+          "stats":[
+            {
+              "wins":9,
+              "draws":7,
+              "defeats":13,
+              "points":34,
+              "stand":11
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Huddersfield Town A.F.C",
+          "city": "West Yorkshire",
+          "logo": "huddersfield.png",
+          "poll": "false",
+          "count": 0,
+          "teamid":8,
+          "description": "Huddersfield Town Association Football Club is a professional football club based in the town of Huddersfield, West Yorkshire, England.",
+          "stats":[
+            {
+              "wins":8,
+              "draws":6,
+              "defeats":15,
+              "points":30,
+              "stand":15
+            }
+          ]
+        },
+         {
+          "id": 9,
+          "name": "Leicester City F.C.",
+          "logo": "leicester.png",
+          "city":"Leicester",
+          "stadium":"King Power Stadium",
+          "poll": "false",
+          "count": 0,
+          "teamid":9,
+          "description": "Leicester City Football Club is an English professional football club based at the King Power Stadium in Leicester. They compete in the Premier League, England's top division of football.",
+          "stats":[
+            {
+              "wins":9,
+              "draws":10,
+              "defeats":10,
+              "points":37,
+              "stand":8
+            }
+          ]
+        },
+         {
+          "id": 10,
+          "name": "Liverpool FC",
+          "city": "Liverpool",
+          "stadium":"Anfield",
+          "logo": "liverpool.png",
+          "poll": "false",
+          "count": 0,
+          "teamid":10,
+          "description": "Liverpool Football Club is a professional football club in Liverpool, England, which competes in the Premier League, the top tier of English football.",
+          "stats":[
+            {
+              "wins":17,
+              "draws":9,
+              "defeats":3,
+              "points":60,
+              "stand":3
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "Manchester City",
+          "city": "Manchester",
+          "stadium":"Etihad Stadium",
+          "logo": "mancity.png",
+          "poll": "true",
+          "count": 0,
+          "teamid":11,
+          "description": "Manchester City Football Club is a professional football club based in , Greater Manchester, England, that competes in the Premier League, the top flight of English football.",
+          "stats":[
+            {
+              "wins":25,
+              "draws":3,
+              "defeats":1,
+              "points":78,
+              "stand":1
+            }
+          ]
+        },
+         {
+          "id": 12,
+          "name": "Manchester United",
+          "city": "Manchester",
+          "stadium":"Old Trafford",
+          "logo": "manunited.png",
+          "poll": "true",
+          "count": 0,
+          "teamid":12,
+          "description": "Manchester United Football Club is a professional football club based in Old Trafford, Greater Manchester, England, that competes in the Premier League, the top flight of English football.",
+          "stats":[
+            {
+              "wins":19,
+              "draws":5,
+              "defeats":5,
+              "points":62,
+              "stand":2
+            }
+          ]
+        },
+         {
+          "id": 13,
+          "name": "Newcastle United F.C",
+          "city": "Newcastle upon Tyne",
+          "stadium":"St James' Park",
+          "logo": "newcastle.png",
+          "poll": "false",
+          "count": 0,
+          "teamid":13,
+          "description": "Newcastle United Football Club is an English professional association football club based in Newcastle upon Tyne, that currently plays in the Premier League, the top tier of English football. ",
+          "stats":[
+            {
+              "wins":7,
+              "draws":8,
+              "defeats":14,
+              "points":29,
+              "stand":16
+            }
+          ]
+        },
+         {
+          "id": 14,
+          "name": "Southampton F.C.",
+          "city": "Southampton",
+          "stadium":"St Mary's Stadium",
+          "logo": "southhampton.png",
+          "poll": "false",
+          "count": 0,
+          "teamid":14,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":5,
+              "draws":13,
+              "defeats":11,
+              "points":28,
+              "stand":17
+            }
+          ]
+        },
+         {
+          "id": 15,
+          "name": "Stoke City FC",
+          "city": "Stoke-on-Trent",
+          "stadium":"bet365 Stadium",
+          "logo": "stoke.png",
+          "poll": "false",
+          "count": 0,
+          "teamid":15,
+          "description": "Stoke City Football Club is a professional football club based in Stoke-on-Trent, Staffordshire, England, that plays in the Premier League, the top flight of English football.",
+          "stats":[
+            {
+              "wins":6,
+              "draws":9,
+              "defeats":14,
+              "points":27,
+              "stand":19
+            }
+          ]
+        },
+         {
+          "id": 16,
+          "name": "Swansea City FC",
+          "city": "Swansea",
+          "stadium":"Liberty Stadium",
+          "logo": "swansea.png",
+          "poll": "false",
+          "count": 0,
+          "teamid":16,
+          "description": "Swansea City Association Football Club is a Welsh professional football club based in Swansea, Wales, that plays in the Premier League, the top tier of English football.",
+          "stats":[
+            {
+              "wins":8,
+              "draws":6,
+              "defeats":15,
+              "points":30,
+              "stand":13
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "Tottenham Hotspur FC",
+          "city": "London",
+          "stadium":"Wembley Stadium",
+          "logo": "spurs.png",
+          "poll": "false",
+          "count": 0,
+          "teamid":17,
+          "description": "Tottenham Hotspur Football Club, commonly referred to simply as Tottenham or Spurs, is an English football club located in Tottenham, Haringey, London, that competes in the Premier League.",
+          "stats":[
+            {
+              "wins":17,
+              "draws":7,
+              "defeats":5,
+              "points":58,
+              "stand":4
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "Watford F.C",
+          "city": "Watford",
+          "stadium":"Vicarage Road",
+          "logo": "watford.png",
+          "poll": "false",
+          "count": 0,
+          "teamid":18,
+          "description": "Watford Football Club is a professional football club based in Watford, Hertfordshire, England, that plays in the Premier League, the highest level in the English football league system.",
+          "stats":[
+            {
+              "wins":10,
+              "draws":6,
+              "defeats":13,
+              "points":36,
+              "stand":9
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "West Bromwich Albion",
+          "city": "West Bromwich",
+          "stadium":"The Hawthorns",
+          "logo": "westbrom.png",
+          "poll": "false",
+          "count": 0,
+          "teamid":19,
+          "description": "West Bromwich Albion Football Club, also known as West Brom, The Baggies, The Throstles, Albion or simply WBA, is an English professional football club based in West Bromwich in the West Midlands",
+          "stats":[
+            {
+              "wins":3,
+              "draws":11,
+              "defeats":15,
+              "points":20,
+              "stand":4
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "West Ham United",
+          "city": "London",
+          "stadium":"London Stadium",
+          "logo": "westham.png",
+          "poll": "false",
+          "count": 0,
+          "teamid":20,
+          "description": "West Ham United Football Club is a professional football club based in Stratford, East London, England. They compete in the Premier League, the top tier of English football. The club re-located to the London Stadium in 2016.",
+          "stats":[
+            {
+              "wins":7,
+              "draws":9,
+              "defeats":13,
+              "points":30,
+              "stand":14
+            }
+          ]
+        }
+      ]
+}
