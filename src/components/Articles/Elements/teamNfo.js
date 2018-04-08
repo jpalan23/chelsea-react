@@ -12,12 +12,11 @@ const teamNfo = (props) => (
         </div>
         <div className={styles.right}>
             <div>
-                <span>{props.team.city} {props.team.name}</span>
+                <span> {props.team.name}</span>
             </div>
             <div>
                 <strong>
-                    W{props.team.stats[0].wins}-L{props.team.stats[0].defeats}
-                </strong>
+                P{props.team.stats[0].points} -W{props.team.stats[0].wins} -L{props.team.stats[0].defeats} -D{props.team.stats[0].draws}                </strong>
             </div>
         </div>
     </div>

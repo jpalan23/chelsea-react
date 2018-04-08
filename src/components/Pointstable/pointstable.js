@@ -52,10 +52,7 @@ class pointstable extends Component {
                 </div>
                 <div className={styles.team_container}>
                 {this.renderTeam()}
-                </div>
-                
-
-                
+                </div>  
             </div>
         );
     }

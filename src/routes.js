@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
 import { Route, Switch } from 'react-router-dom';
-
 import Home from './components/Home/home';
 import Layout from './hoc/Layout/layout';
-
 import NewsArticle from './components/Articles/News/Post/index';
 import VideoArticle from './components/Articles/Videos/Video/index'
 import NewsMain from './components/Articles/News/Main/index';
