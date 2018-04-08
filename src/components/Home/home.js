@@ -21,12 +21,12 @@ const Home = () =>{
              <NewsList
                 type="card"
                 loadmore={true}
-                start={3}
+                start={1}
                 amount={3}
             />
-            <Pointstable></Pointstable>
-            {/* <VideosList type="card" title={true} loadmore={true} start={0} amount={3} />  */}
-        </div>
+                <Pointstable></Pointstable>
+                <VideosList type="card" title={true} loadmore={true} start={0} amount={3} />  
+            </div>
     )
 }
 

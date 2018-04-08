@@ -8,3 +8,14 @@ body {
 a {
     text-decoration: none;
 }
+.mainBackground{
+    background: #ececec;
+}
+@media only screen and (min-width: 768px) {
+    
+    body{
+        width: 450px;
+        background:rgba(0,0,0,0.7);
+        border: 1px solid #acacac;
+    }
+} 

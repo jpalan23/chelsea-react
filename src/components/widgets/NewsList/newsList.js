@@ -32,13 +32,23 @@ class NewsList extends Component {
                 })
             })
         
-        firebaseArticles.orderByChild('id').startAt(start).endAt(end).once('value').then((snapshot)=>{
+        firebaseArticles.orderByChild('id').startAt(start).endAt(end).once('value')
+        .then((snapshot)=>{
             const articles=firebaseLooper(snapshot);
+            console.log(articles);
             this.setState({
-
+                items:[...this.state.items,...articles],
+                 start,
+                 end
             })
         })
+        .catch(e=>{
+            console.log(e);
+        })
             
+            // console.log(this.state.items);
+            // console.log(this.state.start);
+            // console.log(this.state.end);
             // axios.get(`${URL}/teams`)
             // .then( response => {
             //     this.setState({
