@@ -1,21 +1,29 @@
 .team_logo{
-    width: 20%;
+    width: 30px;
     height: 25px;
     background-size: 20px !important;
     background-repeat: no-repeat !important;
     background-position: center !important;
     
 }
+.team_stand{
+    width: 25px;
+    border-right: #acacac 1px solid;
+    padding-left: 10px;
+    padding-right: 10px;
+}
 .left_info{
     display: flex;
-    width: 60%;
+    width: 65%;
     /* justify-content: center; */
     flex-wrap: nowrap;
+    border-right: #acacac 1px solid;
+
 }
 
 .right_info{
     display: flex;
-    width: 40%;
+    width: 35%;
     /* justify-content: center; */
     flex-wrap: nowrap;
 }
@@ -34,7 +42,6 @@
 }
 .team_name{
 width: 80%;
-border-right: #acacac 1px solid;
 }
 .team_wins, .team_draws,.team_defeat,.team_points {
     justify-content: center;

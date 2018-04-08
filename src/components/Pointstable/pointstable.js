@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import axios from 'axios';
 import styles from './pointstable.css';
-import { URL } from '../../config';
+import { firebaseLooper,firebaseTeams } from '../../firebase';
+
 
 class pointstable extends Component {
 
@@ -10,12 +10,22 @@ class pointstable extends Component {
     }
 
     componentWillMount(){
-        axios.get(`${URL}/teams`)
-            .then( response => {
+        if(this.state.teams.length < 1){
+            firebaseTeams.orderByChild('stand').once('value')
+            .then((snapshot)=>{
+                const teams= firebaseLooper(snapshot);
                 this.setState({
-                    teams:response.data
+                    teams
                 })
             })
+        }
+
+        // axios.get(`${URL}/teams`)
+        //     .then( response => {
+        //         this.setState({
+        //             teams:response.data
+        //         })
+        //     })
     
         }
     
@@ -24,6 +34,7 @@ class pointstable extends Component {
         template=this.state.teams.map((item,i)=>(
             <div className={styles.team_cell} key={i}>
                 <div className={styles.left_info}>
+                <div className={styles.team_stand}>{item.stand}</div>
                     <div className={styles.team_logo}
                     style={{
                         background:`url('/images/teams/${item.logo}')`
@@ -48,7 +59,7 @@ class pointstable extends Component {
         return (
             <div>
                 <div className={styles.pheader}>
-                    <h3><strong>Premier League</strong> Teams</h3>
+                    <h3><strong>Premier League</strong> Points Table</h3>
                 </div>
                 <div className={styles.team_container}>
                 {this.renderTeam()}
