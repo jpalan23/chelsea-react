@@ -1,0 +1,19 @@
+
+.labelError {
+    color:#ff5722;
+    font-weight: 500;
+    margin-top: 5px;
+    padding:5px;
+}
+
+.formInput input{
+    border: 0px;
+    padding: 10px 20px;
+    background-color: transparent;
+    border-bottom: 1px solid #002366;
+
+}
+
+.formInput input:focus {
+    outline:none;
+}
