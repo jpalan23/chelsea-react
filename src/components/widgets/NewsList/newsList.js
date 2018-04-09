@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { CSSTransition , TransitionGroup } from 'react-transition-group';
 import { Link } from  'react-router-dom';
-import { firebaseArticles,firebaseLooper,firebaseTeams } from '../../../firebase';
+import { firebase,firebaseArticles,firebaseLooper,firebaseTeams } from '../../../firebase';
 
 import styles from './newsList.css';
 
@@ -35,6 +35,14 @@ class NewsList extends Component {
         firebaseArticles.orderByChild('id').startAt(start).endAt(end).once('value')
         .then((snapshot)=>{
             const articles=firebaseLooper(snapshot);
+            articles.forEach((item,i)=>{
+                firebase.storage().ref('images').child(item.image).getDownloadURL().then(url=>{
+                    articles[i].image=url;
+                    this.setState({
+                        articles
+                    })
+                })
+            });
             // console.log(articles);
             this.setState({
                 items:[...this.state.items,...articles],
@@ -114,7 +122,7 @@ class NewsList extends Component {
                             <div className={styles.flex_wrapper}>
                                 <div className={styles.left}
                                     style={{
-                                        background:`url('/images/articles/${item.image}')`
+                                        background:`url('${item.image}')`
                                     }}>
                                     <div></div>
                                 </div>
