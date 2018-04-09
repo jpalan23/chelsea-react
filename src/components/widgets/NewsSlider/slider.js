@@ -20,7 +20,7 @@ class NewsSlider extends Component {
                         news
                     })
                 })
-            })
+            });
             
 
 

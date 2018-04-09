@@ -155,7 +155,6 @@ class Dashboard extends Component {
             formIsValid = this.state.formdata[key].valid && formIsValid;
         }
 
-        console.log(dataToSubmit)
 
         if(formIsValid){
             this.setState({
