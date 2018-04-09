@@ -146,7 +146,6 @@ class Signin extends Component {
             'loading...'
         :
         <div>
-            <button className={styles.buttonStyle} onClick={(event)=>this.submitForm(event,false)}> Register now</button>
             <button className={styles.buttonStyle} onClick={(event)=>this.submitForm(event,true)}> Log in </button>
         </div>
     )
@@ -165,7 +164,7 @@ class Signin extends Component {
             <div className={styles.logContainer}>
 
                 <form onSubmit={(event)=>this.submitForm(event,null)}>
-                    <h2>Register / Log in</h2>
+                    <h2>Log in</h2>
                     <FormFields
                         
                         id={'email'}

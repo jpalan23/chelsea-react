@@ -11,7 +11,7 @@ const Home = () =>{
             {/* Adding additional attributes in order to reuse the widget  */}
             <NewsSlider
                 type="featured"
-                start={0}
+                start={1}
                 amount={3}
                 settings={{
                     dots:false
@@ -21,7 +21,7 @@ const Home = () =>{
              <NewsList
                 type="card"
                 loadmore={true}
-                start={1}
+                start={3}
                 amount={3}
             />
                 <Pointstable></Pointstable>
